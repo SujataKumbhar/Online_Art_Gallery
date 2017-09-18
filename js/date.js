@@ -1,0 +1,7 @@
+  $(function() {
+   $(function() {
+    $( "#datepicker" ).datepicker({
+
+    });
+  });
+  });
